@@ -18,6 +18,7 @@
       </TableView>
       <Button fx:id="btnCheck" layoutX="382.0" layoutY="49.0" mnemonicParsing="false" onAction="#onCheck" text="Check" />
       <TextField fx:id="textId" layoutX="79.0" layoutY="49.0" prefHeight="25.0" prefWidth="274.0" />
-      <Label fx:id="lblDago" layoutX="65.0" layoutY="350.0" prefHeight="17.0" prefWidth="120.0" />
+      <Label fx:id="lblDago" layoutX="65.0" layoutY="350.0" prefHeight="17.0" prefWidth="422.0" />
+      <Label fx:id="lblDago1" layoutX="75.0" layoutY="360.0" prefHeight="17.0" prefWidth="422.0" />
    </children>
 </AnchorPane>
